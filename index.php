@@ -16,8 +16,8 @@
 		?>
 		<!-- form to get the base and height from the user -->
     <form action="./result.php" method="post" target="results">
-        <label for="Radius">Fahrenheit</label>
-        <input type="text" id="Fahrenheit" placeholder="Enter Fahrenheit" name="Fahrenheit">
+        <label for="fahrenheit">Fahrenheit</label>
+        <input type="text" id="fahrenheit" placeholder="Enter fahrenheit" name="fahrenheit">
         <br><br>
         <input type="submit" value="Calculate degrees">
 		</form>
